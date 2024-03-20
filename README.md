@@ -36,17 +36,17 @@ Final prototyope.
 
 **Phase 1**
 **Planning and Analysis**
-1.Planning the Hardware Components And analysing whether its matching with our project 
+   1.Planning the Hardware Components And analysing whether its matching with our project 
 
 **Requirements Analysis**
-1. Analysing all the requirements and their feasibility
+   1. Analysing all the requirements and their feasibility
    
 **Design and Develop**
-1.Integrating all the hardware parts with software
+   1.Integrating all the hardware parts with software
 
 **Testing and Analysis**
-1.Testing using hardware and Software components 
+   1.Testing using hardware and Software components 
 
 **Final Software**
-1. Final project is Ready !!
+   1. Final project is Ready !!
 
