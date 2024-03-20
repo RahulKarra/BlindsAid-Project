@@ -1,7 +1,0 @@
-
-path : D:/Training_Dataset/images/train
-train : images/train
-val : images/train
-
-names :
-  0: Rahul Karra
